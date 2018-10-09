@@ -8,7 +8,7 @@ CMLDR, a novel drug repositioning computational method based on Collaborative Me
 ```
 ```
 2. Code.
-(1) MLDR-TN.py: predict potential indications for drugs;
+(1) CMLDR-TN.py: predict potential indications for drugs;
 (2) sampler.py : sample positive samples and negative samples.
 (3) utils.py: split dataset into training, validation and test sets;
 (4) evaluator.py: create evaluator for recall and precision evaluation;
