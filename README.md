@@ -13,5 +13,6 @@ CMLDR, a novel drug repositioning computational method based on Collaborative Me
 (4) evaluator.py: create evaluator for recall and precision evaluation;
 ```
 [1] Hsieh, C. K. et al. (2017) Collaborative metric learning. In Proceedings of the 26th International Conference on World Wide Web, 193-201.
+
 [2] Hsieh, C. K. Collaborative metric learning. https://github.com/changun/CollMetric, 2016.
 
